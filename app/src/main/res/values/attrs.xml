@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <!--外圆宽度-->
+        <attr name="outterCircleWidth" format="dimension"></attr>
+        <!--外圆颜色-->
+        <attr name="outterCircleColor" format="color"></attr>
+        <!--内圆颜色-->
+        <attr name="innerCircleColor" format="color"></attr>
+    </declare-styleable>
+</resources>
